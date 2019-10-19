@@ -1,6 +1,7 @@
 # rails_qandaについて
 
 ## URL
+- https://rails-qanda-1324.herokuapp.com
 
 ## コンセプト
 - Udemyの『はじめての Ruby on Rails入門-RubyとRailsを基礎から学びWebアプリケーションをネットに公開しよう』
