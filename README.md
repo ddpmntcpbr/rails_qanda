@@ -5,8 +5,7 @@
 
 ## コンセプト
 - Udemyの『はじめての Ruby on Rails入門-RubyとRailsを基礎から学びWebアプリケーションをネットに公開しよう』
-- (https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp/)に則って作成したQ&Aサイト
-
+- に則って作成したQ&Aサイト(https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp)
 
 ## 技術スタック
 - 言語: Ruby2.5.1
