@@ -2,7 +2,6 @@
 
 ## URL
 
-
 ## コンセプト
 - Udemyの『はじめての Ruby on Rails入門-RubyとRailsを基礎から学びWebアプリケーションをネットに公開しよう』
 - に則って作成したQ&Aサイト(https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp)
