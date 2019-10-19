@@ -1,24 +1,19 @@
-# README
+# rails_qandaについて
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## URL
 
-Things you may want to cover:
 
-* Ruby version
-ruby 2.5.1p57
-* System dependencies
+## コンセプト
+- Udemyの『はじめての Ruby on Rails入門-RubyとRailsを基礎から学びWebアプリケーションをネットに公開しよう』
+- (https://www.udemy.com/course/the-ultimate-ruby-on-rails-bootcamp/)に則って作成したQ&Aサイト
 
-* Configuration
 
-* Database creation
+## 技術スタック
+- 言語: Ruby2.5.1
+- フレームワーク: Ruby on Rails 5.2.3
+- バージョン管理: Git
+- 開発環境: AWS Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 実装した機能等の概要
+- Questionの投稿、編集、削除
+- Answerの投稿、編集、削除
